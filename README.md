@@ -12,11 +12,11 @@ Este é um programa simples para controle financeiro pessoal, desenvolvido em Py
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Elton1466/Projeto-Python-I.git
+   git clone https://github.com/Elton1466/controle-financeiro-python.git
 
 2. Navegue até a pasta do projeto:
    ```bash
-   cd Projeto-Python-I
+   cd controle-financeiro-python
 
 3. Execute o programa:
    ```bash
